@@ -39,13 +39,13 @@
 
         <p class="text-gray-400 text-lg mb-4 sm:text-xl">Estoy encantado de que estes aquí.</p>
 
-        <p class="text-gray-400 text-md mb-6 sm:text-lg">Próximamente, añadiremos más opciones para mejorar mi portafolio.</p>
+        <p class="text-gray-400 text-md mb-6 sm:text-lg">Próximamente, añadirem más opciones para mejorar mi portafolio.</p>
 
         <a href="../php/cerrarSesion.php" class="bg-gray-700 hover:bg-gray-600 text-white py-2 px-4 rounded-md transition duration-200 sm:py-3 sm:px-6">Cerrar Sesión</a>
     </div>
 
     <footer class="mt-8 text-gray-500 text-sm sm:text-base">
-        <p>Matias Negrelli</p>
+        <p>By Matias Negrelli</p>
     </footer>
 </body>
 </html>
