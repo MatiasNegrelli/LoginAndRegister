@@ -40,6 +40,13 @@
         // Redirigir a la página de bienvenida
         header("Location: ../pages/welcome.php");
         exit();
+    }else{
+        echo '
+        <script>
+            alert("Cuenta no encontrada, Intentelo de nuevo");
+            window.location = "../index.php";
+        </script>';
+        exit();
     }
     
 
